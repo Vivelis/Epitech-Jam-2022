@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SB
+  - Setting_button
+  - Start_button
   layers:
   - Default
   - TransparentFX
